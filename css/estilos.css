@@ -1,3 +1,16 @@
+.icon-home-1:before {
+  font-size: 0.8em;
+}
+
+.icon-download:before {
+  font-size: 1em;
+  margin-right: 5px;
+}
+.icon-calendar:before {
+  font-size: 1em;
+  margin-right: 5px;
+}
+
 .icon-facebook:before {
    
     font-size: 1.8em;
@@ -49,11 +62,11 @@ i.icon-mail:before {
 
 .icon-caret-down:before {
  
-    font-size: 0.8em;
+    font-size: 0.6em;
 }
 .icon-mail-1:before {
  
-    font-size: 0.8em;
+    font-size: 0.7em;
 }
 
 a.social{
