@@ -11,6 +11,17 @@
   margin-right: 5px;
 }
 
+.icon-bullhorn:before{
+  font-size: 1em;
+  margin-right: 5px;
+
+}
+
+.icon-clipboard-pencil:before{
+   font-size: 1em;
+  margin-right: 5px;
+}
+
 .icon-facebook:before {
    
     font-size: 1.8em;
@@ -43,6 +54,10 @@ span.icon-twitter:hover{
   font-size: 1.3em;
   margin-right: 5px;
 }
+.icon-mail:before {
+  font-size: 1.3em;
+  margin-right: 5px;
+}
 i.icon-mail:before {
   font-size: 1.3em;
   margin-right: 5px;
@@ -59,6 +74,10 @@ i.icon-mail:before {
   color:  #F44336;
 }
 
+.icon-location-1:before {
+  
+    font-size: 0.8em;
+}
 
 .icon-caret-down:before {
  
@@ -68,6 +87,7 @@ i.icon-mail:before {
  
     font-size: 0.7em;
 }
+
 
 a.social{
 	margin-left: 1rem;
@@ -94,6 +114,11 @@ nav i.peque{
 	
 }
 
+.collection .collection-item.avatar .secondary-content {
+
+    top: 55px;
+  
+}
 
 
 @media only screen and (min-width: 993px) {

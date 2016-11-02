@@ -110,3 +110,21 @@
 .icon-home-1:before {
   content: "\78";
 }
+.icon-bullhorn:before {
+  content: "\79";
+}
+.icon-file-text:before {
+  content: "\7a";
+}
+.icon-quote-left:before {
+  content: "\41";
+}
+.icon-quote-right:before {
+  content: "\42";
+}
+.icon-organization:before {
+  content: "\43";
+}
+.icon-clipboard-pencil:before {
+  content: "\44";
+}
